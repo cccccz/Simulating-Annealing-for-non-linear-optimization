@@ -2,7 +2,7 @@
 Applying Simulated Annealing Algorithm to find the solution to the Travelling Salesman Problem.
 
 Problem visualization:
-![Alt Text](mm.png)
+![Alt Text](city-and-path.png)
 Random Solution:
 ![Alt Text](random-path.png)
 Experimenting with different parameters:
